@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport">
+    <title>document</title>
+    <style>
+        body{
+
+            background-image:url(imagenpizarra.jpg) ;
+        }
+
+
+        h1  {
+            border-top: 5px double green;
+            border-bottom: 5px double green;
+
+
+        }
+        h2 {
+            color: green;
+            margin: 50px 100px;
+            border-left: 50px solid red;
+            
+
+        }
+        h3{
+            text-align: center;
+            background-color: green;
+            padding: 50px 50px ;
+            color: white;
+            border: 1px solid green;
+            border-radius: 90px ;
+           
+
+
+
+        }
+        p {
+            margin: 0  0 0 200px;
+            border-left: 100px solid greenyellow;
+            text-align:left;
+            padding-left: 5px;
+
+        }
+
+    </style>
+</head>
+<body>
+<h1>Lorem ipsum dolor sit amet.</h1>
+<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque placeat magni ratione minus cum sunt, doloremque amet aliquam repudiandae consequuntur a quos dolores consectetur. Minus impedit, deserunt necessitatibus dolore vitae quam ducimus et, ea maxime ratione odit quasi nemo quis eius corrupti eligendi natus cum rem facere maiores laborum asperiores nobis! Dicta, tempora quia. Blanditiis rem ea quos, nam veniam sunt qui obcaecati quaerat unde odio? Voluptatem libero necessitatibus minus saepe temporibus natus, voluptatibus iste magnam. Tenetur modi nihil ad alias aliquam incidunt eum, dicta blanditiis tempore facere voluptatibus consectetur ipsam, rem laborum quo necessitatibus ex consequuntur in illo veniam quae sit aspernatur? Accusamus quam vero laudantium amet dicta quo mollitia voluptates totam eveniet. Exercitationem deleniti modi est rem fugiat, laboriosam dolorum totam accusantium optio, corrupti quo molestiae asperiores soluta tenetur! Nesciunt facilis reiciendis beatae exercitationem magni fuga magnam labore suscipit velit! Ratione similique, velit officiis temporibus totam consectetur aspernatur, nostrum veniam sunt est exercitationem eos perferendis ut quis! Optio dignissimos rem corporis odio aspernatur quo pariatur impedit ad! Dolores aliquam in placeat beatae est recusandae alias ea consequuntur adipisci fugit harum saepe, laborum sint quisquam perspiciatis natus optio. Deserunt, nobis vitae eveniet illo expedita porro esse exercitationem nostrum? Sit!</p>
+<h2>Lorem ipsum dolor sit amet.</h2>
+<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero non quas ab voluptas doloribus asperiores id officia, quos ut illo doloremque quibusdam obcaecati harum est maiores molestias vero consectetur? Iste, consectetur expedita aperiam molestiae architecto pariatur eius autem blanditiis explicabo magnam? Pariatur beatae tenetur velit aut voluptates voluptas consequuntur labore vero eligendi! Numquam similique praesentium, necessitatibus fugiat, officia voluptatem atque deleniti exercitationem nisi harum corrupti! Exercitationem vel, consequatur tenetur minima labore beatae dolorum alias nulla delectus sed quibusdam sapiente hic veniam atque placeat! Ut sapiente beatae dignissimos quod odio iusto nisi iste exercitationem quae, totam esse fuga ex provident sint non placeat quisquam dolorem in asperiores omnis. Odit excepturi obcaecati iure eligendi deserunt, quisquam cum ipsum aut facilis. Error nisi deserunt, neque cumque accusantium rerum ipsam corrupti dicta nihil, corporis pariatur consectetur excepturi incidunt ad voluptas quis autem nesciunt vero, maxime veniam! Aliquid neque saepe, illum officia eos reiciendis quo eveniet perspiciatis dolore? Aliquid incidunt delectus quam deserunt impedit tempora dolore fugit, quo praesentium reiciendis in dolorem optio, animi repellendus rem nisi error provident sit molestiae itaque omnis iusto eos cum nemo? Vero animi inventore sequi quibusdam commodi et illo doloremque numquam non voluptas, laudantium dolores odit culpa ad omnis.</p>
+<h3>Lorem ipsum dolor sit amet.</h3>
+<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Reiciendis, autem? Perspiciatis doloremque, molestiae, iusto optio obcaecati fuga assumenda repellendus voluptatem id nam itaque? Nam, libero! Itaque veritatis, magnam culpa saepe sed fugit, minima quibusdam explicabo adipisci, reprehenderit consequuntur incidunt! Molestiae, vero. Dignissimos officiis ab consectetur veritatis eligendi maiores, error optio, a, eum accusamus quam est delectus ad neque nesciunt. Ipsum quisquam, dolores saepe, neque explicabo enim quas incidunt eum error maiores facere sed minima nisi vel non sapiente deleniti blanditiis eius officia illo inventore aspernatur adipisci. Aliquid soluta, a sunt ut et iste labore, illum at unde quaerat, numquam corporis.</p>
+</body>
+</html>
